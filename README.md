@@ -2,4 +2,4 @@
 Instagram clone (kind of)
 
 
-```uvicorn main:app --reload```
+React & FastAPI
