@@ -2,4 +2,6 @@
 Instagram clone (kind of)
 
 
-React & FastAPI
+React & FastAPI <br>
+
+tableplus
